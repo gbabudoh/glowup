@@ -1,0 +1,2 @@
+/product/*    /.netlify/functions/nextServer/:splat    200
+/*            /index.html                              200
